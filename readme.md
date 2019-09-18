@@ -5,7 +5,7 @@ Hi there, these are all the tools and links I mentioned during my talk
 `JAVASCRIPT - THE BEST LANGUAGE FOR YOUR MVP`
 [https://www.webexpo.net/prague2019/talk/javascript-the-best-language-for-your-mvp](https://www.webexpo.net/prague2019/talk/javascript-the-best-language-for-your-mvp)
 
-# Check these out
+# Find me here
 
 [OAK'S LAB](https://www.oaks-lab.com/) - The company where we build startups
 
@@ -13,13 +13,21 @@ Hi there, these are all the tools and links I mentioned during my talk
 
 [Nodeschool Prague](https://www.eventbrite.com/e/nodeschool-prague-tickets-70774651889) - Nodeschool event in Prague on Oct 1, 2019
 
-# Tools & Links
+# Tools, Resources, links
 
-[octoverse.github.com](https://octoverse.github.com/) - GitHub ecosystem analysis
+[config examples](https://github.com/oakslab/ooo-config-examples) - our tsconfig, eslint, ...
+
+[reactnativeexample.com](reactnativeexample.com)
+
+[Pusher](https://pusher.com/) - Realtime communication APIs (chat, ...)
 
 [graphql-code-generator.com](https://graphql-code-generator.com/)
 
 [leapgraph.com/graphql-api-security](https://leapgraph.com/graphql-api-security)
+
+## Libraries
+
+[Apollo GraphQL](https://www.apollographql.com/) - Apollo client and server
 
 [knexjs.org](http://knexjs.org/) - query builder
 
@@ -28,6 +36,16 @@ Hi there, these are all the tools and links I mentioned during my talk
 [auth0.com/](https://auth0.com/) - identity provider
 
 [expo.io](https://expo.io/) - React native tooling
+
+[Ant design](https://ant.design/) - UI library
+
+## Security
+
+[Greenkeeper](https://greenkeeper.io) - automated dependency management
+
+[Snyk.io](https://snyk.io/) - automated vulnerability fixes
+
+[GitHub security alerts](https://help.github.com/en/articles/about-security-alerts-for-vulnerable-dependencies)
 
 # Get in touch
 
